@@ -4,7 +4,7 @@
 
 
  <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Samuel-Belmonte&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Samuel-Belmonte&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="700" height="150" alt="streak graph"  />
 </div>
 
 
@@ -27,10 +27,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
+###
+
 - 🔭 I’m currently working on completing my React project "What to Wear" 
 - 🌱 I’m currently learning backend devlopment
 - 👯 I’m looking to expand my network and meet new people
 - ⚡ Fun fact: I can solve a rubiks cube in under 30 seconds
+
 
 ###
 
