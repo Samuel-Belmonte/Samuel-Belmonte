@@ -25,6 +25,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
+- 🔭 I’m currently working on completing my React project "What to Wear" 
+- 🌱 I’m currently learning backend devlopment
+- 👯 I’m looking to expand my network and meet new people
+- ⚡ Fun fact: I can solve a rubiks cube in under 30 seconds
+
 ###
 
 <div align="left">
@@ -44,11 +49,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Samuel-Belmonte/Samuel-Belmonte/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!--
 **Samuel-Belmonte/Samuel-Belmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
