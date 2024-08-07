@@ -28,7 +28,7 @@
 ###
 
 - 🔭 I'm currently working on my React project titled "What to Wear." This application aims to provide users with personalized outfit recommendations based on weather conditions and personal style preferences.
-- 🌱 At the moment, I'm diving deep into backend development to complement my frontend skills. My goal is to build a comprehensive skill set that allows me to develop full-stack applications efficiently and effectively.
+- 🌱 At the moment, I'm learning backend development to complement my frontend skills. My goal is to build a comprehensive skill set that allows me to develop full-stack applications efficiently and effectively.
 - 👯 I'm eager to expand my professional network and connect with like-minded individuals from the tech community. Whether it's through attending meetups, participating in online forums, or collaborating on open-source projects, I'm excited about the opportunities to learn from others, share knowledge, and create lasting connections.
 - ⚡ Fun fact: I can solve a rubiks cube in under 30 seconds.
 
